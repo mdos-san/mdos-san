@@ -1,4 +1,6 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdos-san)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdos-san&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mdos-san/mdos-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
